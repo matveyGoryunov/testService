@@ -11,7 +11,7 @@ Get one person by ID:
 GET http://{host}:9080/testService/api/v1/people/{id}
 ```
 
-To get people by age there are two parameters that can be used:
+There are two parameters that can be used to get people by age:
 * ageMin
 * ageMax
 ```
